@@ -1,0 +1,2 @@
+# simple_calc
+WEB APP USING FLASK ON AZURE SERVICE
