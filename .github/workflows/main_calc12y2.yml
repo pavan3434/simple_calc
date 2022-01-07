@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'calc12y2'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_99DBD5BC924F41F0B21ADC088D8F7242 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_46EA6046694B4189AA273324725F0AD9 }}
